@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php 
+$t = "Tim hieu ve git";
+
+echo $x;
+
+?>
+
+</body>
+</html>
